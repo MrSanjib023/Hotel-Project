@@ -137,7 +137,7 @@ li {
 .Bodytop {
     height: 750px;
     width: 100%;
-    background-image: url('/heroimage.png');
+    background-image: url('/heroImage.png');
     background-size: cover;
     color: white;
 
