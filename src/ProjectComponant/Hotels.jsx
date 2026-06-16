@@ -1,8 +1,8 @@
 import React from 'react'
-import img1 from '../assets/roomimg1.png';
-import img2 from '../assets/roomimg2.png';
-import img3 from '../assets/roomimg3.png';
-import img4 from '../assets/roomimg4.png';
+import img1 from '../assets/roomImg1.png';
+import img2 from '../assets/roomImg2.png';
+import img3 from '../assets/roomImg3.png';
+import img4 from '../assets/roomImg4.png';
 
 const Hotels = () => {
   const hotelsBook = [
